@@ -1,0 +1,11 @@
+.main-content {
+    flex: 1;
+    padding: 2rem;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    padding-top: 100px;
+    flex-direction: column;
+  }
+ 
+  
